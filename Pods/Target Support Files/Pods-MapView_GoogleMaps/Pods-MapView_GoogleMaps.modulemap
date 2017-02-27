@@ -1,0 +1,6 @@
+framework module Pods_MapView_GoogleMaps {
+  umbrella header "Pods-MapView_GoogleMaps-umbrella.h"
+
+  export *
+  module * { export * }
+}
